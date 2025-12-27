@@ -7,7 +7,6 @@ import com.mirim.infra.config.*
 import com.mirim.model.World
 import com.mirim.presentation.GamePresenter
 import com.mirim.view.swing.SwingWindow
-import java.nio.file.Path
 
 class GameModules {
 
